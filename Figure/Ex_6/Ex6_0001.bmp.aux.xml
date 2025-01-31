@@ -1,0 +1,4 @@
+<PAMDataset>
+  <SRS dataAxisToSRSAxisMapping="2,1">PROJCS["ETRS89-extended / LAEA Europe",GEOGCS["ETRS89",DATUM["European_Terrestrial_Reference_System_1989",SPHEROID["GRS 1980",6378137,298.257222101]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4258"]],PROJECTION["Lambert_Azimuthal_Equal_Area"],PARAMETER["latitude_of_center",52],PARAMETER["longitude_of_center",10],PARAMETER["false_easting",4321000],PARAMETER["false_northing",3210000],UNIT["metre",1],AXIS["Northing",NORTH],AXIS["Easting",EAST],AUTHORITY["EPSG","3035"]]</SRS>
+  <GeoTransform>  4.1919034241770348e+06,  9.4539467178518194e+01,  0.0000000000000000e+00,  3.5630142265656227e+06,  0.0000000000000000e+00, -9.4557030491611599e+01</GeoTransform>
+</PAMDataset>
